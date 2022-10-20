@@ -30,3 +30,5 @@ A qubit can be visualized as a point on the surface of a sphere. The |0⟩ and |
 Any other point on the sphere corresponds to a superposition of the |0⟩ and |1⟩ states.
 
 A regular bit can store a maximum of 2^64, or two raised to the 64th power, or 4,294,967,296 different combinations. In contrast, a qubit can store a fraction of a quantum state, enabling it to hold a virtually unlimited amount of information.
+
+With quantum computing, we can analyze data in a completely new way, opening up new possibilities for Artificial Intelligence

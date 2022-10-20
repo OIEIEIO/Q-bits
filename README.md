@@ -2,8 +2,8 @@
 
 ---
 
-Solve complex real-world problems. A new way to analyze data with quantum computing.
----
+## Solve complex real-world problems.
+### A new way to analyze data with quantum computing.
 
 ---
 

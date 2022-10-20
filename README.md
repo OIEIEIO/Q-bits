@@ -27,6 +27,6 @@ An example of a superposition of states is when a qubit is in both the |0⟩ and
 
 A qubit can be visualized as a point on the surface of a sphere. The |0⟩ and |1⟩ states correspond to the north and south poles of the sphere, respectively.
 
-A qubit can be thought of as a point on the surface of a sphere. The |0⟩ and |1⟩ states correspond to the north and south poles of the sphere, respectively. Any other point on the sphere corresponds to a superposition of the |0⟩ and |1⟩ states.
+Any other point on the sphere corresponds to a superposition of the |0⟩ and |1⟩ states.
 
 A regular bit can store a maximum of 2^64, or two raised to the 64th power, or 4,294,967,296 different combinations. In contrast, a qubit can store a fraction of a quantum state, enabling it to hold a virtually unlimited amount of information.
